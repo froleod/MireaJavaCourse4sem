@@ -1,0 +1,12 @@
+spring:
+  application:
+    name:
+      SpringPrak13
+
+student:
+  name:
+    Leonid
+  last_name:
+    Frolov
+  group:
+    IKBO-20-22

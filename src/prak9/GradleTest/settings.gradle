@@ -1,0 +1,4 @@
+package prak9.GradleTest
+
+rootProject.name = 'GradleTest'
+
